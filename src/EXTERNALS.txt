@@ -1,1 +1,1 @@
-BraineWf http://svn.affinitic.be/plone/crisnet/BraineWf/
+BraineWf http://svn.affinitic.be/plone/crisnet/braine.skin
